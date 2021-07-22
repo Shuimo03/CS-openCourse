@@ -1,0 +1,15 @@
+2021/07/21 15:18:05 Found timed-out MAP task 0 previously running on worker 1000. 
+Prepare to re-assign                                    
+2021/07/21 15:18:05 Found timed-out MAP task 1 previously running on worker 1000. 
+Prepare to re-assign                                    
+2021/07/21 15:18:05 Assign MAP task 2 to worker 1000                                  
+2021/07/21 15:18:05 Assign MAP task 0 to worker 1000                                                                                      
+2021/07/21 15:18:05 Assign MAP task 1 to worker 1000      
+2021/07/21 15:18:05 Received MAP task 2 from coordinator   
+2021/07/21 15:18:05 -----------debug Map阶段----------------              
+2021/07/21 15:18:05 Received MAP task 0 from coordinator           
+2021/07/21 15:18:05 -----------debug Map阶段----------------      
+2021/07/21 15:18:05 Received MAP task 1 from coordinator        
+2021/07/21 15:18:05 -----------debug Map阶段----------------        
+2021/07/21 15:18:05 Finished MAP task 0
+2021/07/21 15:18:06 -----------debug Map阶段----------------
