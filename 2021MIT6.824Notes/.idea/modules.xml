@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MIT6.824lab2021.iml" filepath="$PROJECT_DIR$/.idea/MIT6.824lab2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GFSexample.iml" filepath="$PROJECT_DIR$/GFSexample.iml" />
     </modules>
   </component>
 </project>
