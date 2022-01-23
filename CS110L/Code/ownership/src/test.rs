@@ -1,0 +1,3 @@
+pub printString(){
+    println!("Test");
+}
