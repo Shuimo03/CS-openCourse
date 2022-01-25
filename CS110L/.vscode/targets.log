@@ -1,4 +1,6 @@
 make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: *** No rule to make target 'all'.  Stop.
+ 
 # GNU Make 4.2.1
 # Built for x86_64-pc-linux-gnu
 # Copyright (C) 1988-2016 Free Software Foundation, Inc.
@@ -6,7 +8,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Jan 21 10:46:04 2022
+# Make data base, printed on Tue Jan 25 07:54:21 2022
 
 # Variables
 
@@ -55,7 +57,7 @@ PATH = /home/cola/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/bi
 # environment
 VSCODE_LOG_STACK = false
 # environment
-VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-8e8ed63f-4889-49f5-bad1-e3fe7401c726.sock
+VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-dcb4bc44-1044-4f6b-a098-92997c7c5cf6.sock
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync check-symlink load
 # environment
@@ -71,7 +73,7 @@ PWD = /home/cola/CS-openCourse/CS110L
 # default
 .LOADED := 
 # environment
-WSL_INTEROP = /run/WSL/25740_interop
+WSL_INTEROP = /run/WSL/1805_interop
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/server/remoteExtensionHostProcess
 # environment
@@ -148,10 +150,8 @@ TERM = xterm-256color
 VSCODE_EXTHOST_WILL_SEND_SOCKET = true
 # environment
 WSL_DISTRO_NAME = Ubuntu-20.04
-# environment
-MOTD_SHOWN = update-motd
 # variable set hash-table stats:
-# Load=70/1024=7%, Rehash=0, Collisions=4/92=4%
+# Load=69/1024=7%, Rehash=0, Collisions=4/91=4%
 
 # Pattern-specific Variable Values
 
@@ -217,8 +217,6 @@ GNUmakefile:
 # strcache performance: lookups = 17 / hit rate = 17%
 # hash-table stats:
 # Load=14/8192=0%, Rehash=0, Collisions=1/17=6%
-# Finished Make data base on Fri Jan 21 10:46:04 2022
+# Finished Make data base on Tue Jan 25 07:54:21 2022
 
- 
-make: *** No rule to make target 'all'.  Stop.
  
