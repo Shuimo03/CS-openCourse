@@ -1,6 +1,6 @@
 {
     "files.associations": {
         "stdio.h": "c",
-        "rust-client.rustupPath": "$HOME/.cargo/bin/rustup"
-    }
+    },
+    "rust-client.rustupPath": "$HOME/.cargo/bin/rustup"
 }
