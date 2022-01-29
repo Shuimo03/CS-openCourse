@@ -1,6 +1,4 @@
 {
-    "files.associations": {
-        "stdio.h": "c",
-    },
+    "makefile.extensionOutputFolder": "./.vscode",
     "rust-client.rustupPath": "$HOME/.cargo/bin/rustup"
 }

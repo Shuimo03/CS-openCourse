@@ -1,0 +1,1 @@
+/home/cola/CS-openCourse/CS110L/Code/smart_pointer/target/debug/smart_pointer: /home/cola/CS-openCourse/CS110L/Code/smart_pointer/src/lib.rs /home/cola/CS-openCourse/CS110L/Code/smart_pointer/src/main.rs
